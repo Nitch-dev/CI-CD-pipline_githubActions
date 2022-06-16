@@ -29,5 +29,5 @@ jobs:
         python -m pip install --upgrade pip
     - name: Test python
       run: |
-        touch hello.py
+        python3 main.py
 
