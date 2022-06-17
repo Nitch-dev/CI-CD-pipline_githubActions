@@ -27,9 +27,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-    - name: Test python
-      run: |
-        python3 main.py
+    - name: docker image push
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: nitch425/test_repo_piplines 
