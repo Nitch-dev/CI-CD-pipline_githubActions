@@ -12,10 +12,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-      d
 
       steps:
-        d
         - uses: actions/checkout@v2
         name: Check out code
 
