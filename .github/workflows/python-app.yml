@@ -32,7 +32,7 @@ jobs:
       with:
         image: nitch425/test_repo_piplines 
         registry: docker.io
-        tags: v1.1,latest
+        tags: v1.1
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         
