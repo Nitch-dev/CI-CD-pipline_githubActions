@@ -1,5 +1,10 @@
 ## A Simple yet Ugly site that is very easy to Modify 
 
+## Important Note: 
+* if you want to use it clone the repo then goto your cloned repo in settings and in Secreted tab added secretes of your dockerhub username password like
+* `DOCKER_USERNAME` `DOCKER_PASSWORD` You have to follow this syntax because its in the piplines .yml file
+* 
+
 # How it works:
 
 * We commit change into the code to github
@@ -14,11 +19,11 @@
 
 ## Pulling the Image From Docker Hub:
 
-`docker pull nitch425/test_repo_piplines:v1.2`
+`docker pull <your Dockerhub username>/test_repo_piplines:v1.2`
 
 ## Running the image:
 
-`docker run -itp 8000:8000 nitch425/test_repo_piplines:v1.2`
+`docker run -itp 8000:8000 <your Dockerhub username>/test_repo_piplines:v1.2`
 
 ## Some command Information:
 
