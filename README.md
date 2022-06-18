@@ -16,14 +16,15 @@
 # Using the Image:
 
 * We can easily pull the image from Dockerhub and run it by following
+* make a repo on docker hub also
 
 ## Pulling the Image From Docker Hub:
 
-`docker pull <your Dockerhub username>/test_repo_piplines:v1.2`
+`docker pull <your Dockerhub username>/<your repo name>
 
 ## Running the image:
 
-`docker run -itp 8000:8000 <your Dockerhub username>/test_repo_piplines:v1.2`
+`docker run -itp 8000:8000 <your Dockerhub username>/<repo name>`
 
 ## Some command Information:
 
