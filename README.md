@@ -7,6 +7,10 @@
 
 # How it works:
 
+![image](https://user-images.githubusercontent.com/96729153/176161289-cd1d7eb7-818f-4909-a352-4ee66b3a4483.png)
+
+
+
 * We commit change into the code to github
 * Github  actions trigger's the pipline code written in .Yml File
 * The code runs on github runners we can also configure our own runner
