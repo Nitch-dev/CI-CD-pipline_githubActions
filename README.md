@@ -1,19 +1,3 @@
-![image](https://user-images.githubusercontent.com/96729153/176161289-cd1d7eb7-818f-4909-a352-4ee66b3a4483.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## A Simple yet Ugly site that is very easy to Modify 
 
@@ -24,7 +8,7 @@
 
 # How it works:
 
-
+![image](https://user-images.githubusercontent.com/96729153/176161289-cd1d7eb7-818f-4909-a352-4ee66b3a4483.png)
 
 
 
